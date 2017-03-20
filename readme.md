@@ -3,7 +3,7 @@
 ### 前提:
 
 - 有可用的 socks5 代理服务
-- chrome 没有安装 SwitchOmega
+- chrome 没有安装 [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
 - chrome 无法打开 [chrome webstore](https://chrome.google.com/webstore)
 
 ### 解决:
